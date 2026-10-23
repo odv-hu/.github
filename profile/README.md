@@ -1,4 +1,4 @@
-Architecture practice in Budapest, somewhere between design and research.
+Architecture practice in Budapest, in a superposition of design and research.
 We work increasingly with existing buildings, modelling and studying them through building physics.
 We have started building our own tools to make that work easier.
 
