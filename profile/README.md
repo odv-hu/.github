@@ -1,7 +1,3 @@
-<img src="https://github.com/odv-hu.png" alt="o d v" width="88">
-
-# o d v
-
 Architecture practice in Budapest.
 We work with existing buildings and building physics, and we build our own tools when the usual ones fall short.
 
